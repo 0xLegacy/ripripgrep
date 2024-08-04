@@ -1,3 +1,2 @@
 if you're going to use my code, you should at least know how to configure it...
 
-![Image](https://cdn.discordapp.com/attachments/1171849441309905039/1195003431795036240/806303761705730049.webp)
